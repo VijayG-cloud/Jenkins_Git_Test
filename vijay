@@ -1,3 +1,2 @@
-uname -a
-df -h
-hostname -a
+ls -lrt
+
